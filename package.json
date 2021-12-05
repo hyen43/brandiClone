@@ -1,0 +1,23 @@
+{
+  "name": "brandi",
+  "version": "1.0.0",
+  "description": "brandi clone coding",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyen43/brandiClone.git"
+  },
+  "author": "이나현 <lnhyen43@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hyen43/brandiClone/issues"
+  },
+  "homepage": "https://github.com/hyen43/brandiClone#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
